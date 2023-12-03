@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "818072736893",
+    "project_id": "homif-6cc6c",
+    "storage_bucket": "homif-6cc6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818072736893:android:d79e10e1286c7b3e6acd14",
+        "android_client_info": {
+          "package_name": "com.example.homify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6PJfUHW9GIqLHfj8YEI3Fhgro6AGPgvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
